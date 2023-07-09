@@ -1,5 +1,5 @@
 # Ymdb-clone 
-Demo:- https://yuvraj00001.git-clone/hub.io/Imdb
+Demo:- https://ymdb-clone.netlify.app/
 🔴This project is a small clone of IMDB.
 🔴 You can search for any movie and get details of the movie.
 🔴 You can create your customized favorite movie list.
